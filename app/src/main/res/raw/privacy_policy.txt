@@ -1,0 +1,37 @@
+# Privacy policy
+
+Last updated: 26 November 2026
+
+Sukoon is an offline dua reader. This policy explains exactly what the app does with information. In short: nothing leaves your device.
+
+# What Sukoon stores
+
+Sukoon stores these things on your device only: the duas you mark as favourites, the collections you create, your counter progress, your app settings, and, if you turn on App lock, a salted one-way hash of your PIN. The PIN itself is never stored.
+
+# What Sukoon collects
+
+Nothing. Sukoon has no account, no sign-in, no analytics, no advertising, no crash reporting and no tracking of any kind. The app does not request internet access, so it cannot send data anywhere. If you tap Share on a dua, only that dua's text goes to the app you choose.
+
+# Permissions
+
+Notifications: used only to show the reminders you switch on (dua of the day, morning and evening reminders). Vibration: used for the counter's haptic feedback. Biometrics: used only if you turn on fingerprint or face unlock for App lock. Android handles the biometric check; Sukoon never sees your fingerprint or face data.
+
+# Backups
+
+Sukoon does not upload backups to any cloud service. If you use Settings → Your data → Back up to a file, the app writes a file to a location you choose, and that file is under your control. When you move to a new phone with Android's device-to-device transfer, your favourites and collections may be copied across; your PIN is not.
+
+# Deleting your data
+
+Settings → Your data → Clear my data removes favourites, collections and counters. Uninstalling the app removes everything Sukoon stored.
+
+# Children
+
+Sukoon is suitable for all ages and collects no information from anyone, including children.
+
+# Changes
+
+If this policy changes, the updated version will ship inside the app and on the store listing, with a new date above.
+
+# Contact
+
+Questions about this policy can be sent through the Contact and feedback option in About, or through the developer contact on the store listing.

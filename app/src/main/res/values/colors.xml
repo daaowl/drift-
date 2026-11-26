@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_ink">#FF0E1320</color>
+    <color name="brand_parchment">#FFF6F0E3</color>
+    <color name="brand_gold">#FFD4AF6A</color>
+    <color name="brand_gold_deep">#FF8A6A2E</color>
+    <color name="splash_background">#FFF6F0E3</color>
+    <color name="ic_launcher_background">#FF0E1320</color>
+</resources>

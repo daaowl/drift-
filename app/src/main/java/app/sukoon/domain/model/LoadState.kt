@@ -1,0 +1,7 @@
+package app.sukoon.domain.model
+
+sealed interface LoadState<out T> {
+    data object Loading : LoadState<Nothing>
+    data class Success<T>(val value: T) : LoadState<T>
+    data class Error(val throwable: Throwable) : LoadState<Nothing>
+}

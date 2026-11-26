@@ -1,0 +1,12 @@
+# 1.0.0
+
+The first release of Sukoon.
+
+• 88 duas from Seeking Serenity across ten sections, from Tranquility to Straight Path
+• Reader with Arabic, transliteration and translation, each adjustable and switchable
+• Fast, forgiving search across titles, transliteration, translations and references
+• Favourites and personal collections
+• Tap-anywhere counter for duas recited a set number of times
+• Dua of the day, morning and evening reminders, and a home screen widget
+• App lock with PIN and biometrics, screenshot blocking and hide from recents
+• Backup and restore to a file, light, dark and AMOLED themes, English and Urdu interface
